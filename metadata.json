@@ -1,0 +1,6 @@
+{
+  "name": "AstraChat - BYO Key Web Client",
+  "description": "A minimal, privacy-focused client-side AI chat client with local IndexedDB storage, streaming Markdown, and OpenAI-compatible API support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
